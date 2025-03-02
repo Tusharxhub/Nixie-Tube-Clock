@@ -13,7 +13,7 @@ Welcome to the **Nixie Tube Clock** project! This repository brings the retro ch
 
 ## 📌 Live Demo
 
-🔗 **[See the Nixie Tube Clock in action](https://your-live-demo-link.com)**
+🔗 **[See the Nixie Tube Clock in action](https://nixie-tube-clock-zeta.vercel.app/)**
 
 ## 💻 Usage
 
@@ -44,13 +44,15 @@ Interested in contributing? Here’s how:
 4. Push to the branch: `git push origin feature/YourFeature`.
 5. Open a pull request.
 
-
-## 📞 Contact
-
 Feel free to reach out if you have questions or feedback:
 
-- **Email**: [t.k.d.dey2033929837@gmail.com](mailto:t.k.d.dey2033929837@gmail.com)
-- **Instagram**: [ff_tushar999](https://instagram.com/ff_tushar999)
+## 🏆 Show Some Love
+🌟 Star this repository to show support and keep me motivated! ❤️
+
+## 📬 Contact
+📩 **Tushar DevX** – [GitHub](https://github.com/Tusharxhub) | [Instagram](https://www.instagram.com/tushardevx01)
+
+🚀 _Made with ❤️ by Tushar DevX._
 
 ---
 
